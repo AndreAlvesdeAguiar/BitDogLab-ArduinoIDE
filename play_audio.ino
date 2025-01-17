@@ -1,3 +1,6 @@
+<<<<<<<<<<<FALTA DE COMPATIBILIDADE SSD1306>>>>>>>>>>>>>>>>>>
+
+
 #include <Arduino.h>
 
 // Definição dos pinos utilizados
